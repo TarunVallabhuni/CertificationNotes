@@ -1,5 +1,5 @@
 ## Key Notes / Tips
-- No Hands-on problems, Only (really long) Multiple Choice questions.
+- No Hands-on problems, 50 (sometimes long) Multiple Choice questions in 2 Hours.
 - The choices are very similar to each other. Option to flag a question and review it at the end is handy.
 - Proctor is relatively strict, must not deviate eyes from the screen.
 
@@ -9,6 +9,11 @@
 2. Qlik Continuous Classroom material. [Link](<https://learning.qlik.com/mod/page/view.php?id=24702#home>)
 3. Create Qlik account for certification. (https://www.qlik.com/de-de/services/training/qlik-sense-certification)
 4. Book the test in Pearsonvue. (https://home.pearsonvue.com/qlik)
+
+## Approach
+
+1. Go through Qlik Continuous Classroom material.
+2. Test yourself on Qualification exam to get a feel of the questions. (https://www.qlik.com/us/services/training/certifications-and-qualifications)
 
 ## Continuous Classroom Notes
 
