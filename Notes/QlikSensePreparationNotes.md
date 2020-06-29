@@ -6,7 +6,17 @@
 1. Link to the Study guide. [Exam Guide](<https://www.qlik.com/us/-/media/files/training/global-us/qlik-sense-certification-exam-study-guide-en.pdf?la=en>)
 2. Qlik Continuous Classroom material. [Link](<https://learning.qlik.com/mod/page/view.php?id=24702#home>)
 
-## Approach
+## Continuous Classroom Notes
+
+### Business Analyst
+
+1. Getting Started
+  - Getting started review video has good overview material.
+2. Load Data
+
+
+### Data Architect
+
 
 
 
@@ -133,5 +143,6 @@ requirements (e.g., building data models, layering of QVDs, incremental loading)
 #### 1. Identify Requirements
 1. Based on business requirements, identify Qlik products, needed for the solution (QSE,
 QDC, QABDI, ODAG, Qlik Core, Attunity, Insight Bot, NPrinting, etc.)
-- QSE- Qlik Server Edition
-- QDC- Qlik Data 
+  - QSE- Qlik Server Edition
+  - QDC- Qlik Data Catalyst
+  
