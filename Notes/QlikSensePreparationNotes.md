@@ -5,6 +5,8 @@
 
 1. Link to the Study guide. [Exam Guide](<https://www.qlik.com/us/-/media/files/training/global-us/qlik-sense-certification-exam-study-guide-en.pdf?la=en>)
 2. Qlik Continuous Classroom material. [Link](<https://learning.qlik.com/mod/page/view.php?id=24702#home>)
+3. Create Qlik account for certification. (https://www.qlik.com/de-de/services/training/qlik-sense-certification)
+4. Book the test in Pearsonvue. (https://home.pearsonvue.com/qlik)
 
 ## Continuous Classroom Notes
 
