@@ -1,5 +1,7 @@
 ## Key Notes / Tips
-- Only Multiple Choise questions with one or more selection possibilities.
+- No Hands-on problems, Only (really long) Multiple Choice questions.
+- The choices are very similar to each other. Option to flag a question and review it at the end is handy.
+- Proctor is relatively strict, must not deviate eyes from the screen.
 
 ## Resources:
 
