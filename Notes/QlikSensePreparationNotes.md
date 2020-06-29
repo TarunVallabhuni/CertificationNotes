@@ -11,7 +11,7 @@
 ### Business Analyst
 
 1. Getting Started
-  - Getting started review video has good overview material.
+    - Getting started review video has good overview material.
 2. Load Data
 
 
