@@ -143,6 +143,6 @@ requirements (e.g., building data models, layering of QVDs, incremental loading)
 #### 1. Identify Requirements
 1. Based on business requirements, identify Qlik products, needed for the solution (QSE,
 QDC, QABDI, ODAG, Qlik Core, Attunity, Insight Bot, NPrinting, etc.)
-  - QSE- Qlik Server Edition
-  - QDC- Qlik Data Catalyst
+    - QSE- Qlik Server Edition
+    - QDC- Qlik Data Catalyst
   
