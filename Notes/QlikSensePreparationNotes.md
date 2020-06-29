@@ -10,35 +10,35 @@
 
 
 
-## Notes
+## Topics
 
 ### Business Analyst
 
 #### Identify Requirements
-• Based on business requirements, identify Qlik products, needed for the solution (QSE,
+1. Based on business requirements, identify Qlik products, needed for the solution (QSE,
 QDC, QABDI, ODAG, Qlik Core, Attunity, Insight Bot, NPrinting, etc.)
-• Explain Qlik Sense features (e.g., smart search, responsive design, accessibility
+2. Explain Qlik Sense features (e.g., smart search, responsive design, accessibility
 features, themes, etc.) and how they impact app design
-• Describe the differences between the Qlik deployment options
-• Based on business requirements, identify KPIs, dimensions and measures,
-• Ask appropriate questions to understand the needs of the potential users of the Qlik
+3. Describe the differences between the Qlik deployment options
+4. Based on business requirements, identify KPIs, dimensions and measures,
+5. Ask appropriate questions to understand the needs of the potential users of the Qlik
 Sense application
-• Identify user types and their typical devices to use to access apps
-• Explain the purpose of APIs, server-side extensions (such as R, Python), Qlik
+6. Identify user types and their typical devices to use to access apps
+7. Explain the purpose of APIs, server-side extensions (such as R, Python), Qlik
 GeoAnalytics, web mashups, widgets, section access
-• Explain and interpret results from Qlik Associative Engine
-• Identify Qlik Cognitive Engine uses
-• Consider performance during data loading and application development (removing
+8. Explain and interpret results from Qlik Associative Engine
+9. Identify Qlik Cognitive Engine uses
+10. Consider performance during data loading and application development (removing
 unused columns, consider calculation condition)
 #### Prepare and Load Data
-• Create a basic data model using Data Manager (e.g., spreadsheets, CSV, flat files,
+1. Create a basic data model using Data Manager (e.g., spreadsheets, CSV, flat files,
 QVDs, etc.)
-• Define the steps to load and associate data
-• Apply filters while loading data in Data Manager
-• Manually create data table in Data Manager (creates Inline Load script)
-• Explain synthetic keys and possible methods of resolution
-• Create folder and file data connections
-• Leverage data connections already in Qlik Sense Enterprise
+2. Define the steps to load and associate data
+3. Apply filters while loading data in Data Manager
+4. Manually create data table in Data Manager (creates Inline Load script)
+5. Explain synthetic keys and possible methods of resolution
+6. Create folder and file data connections
+7. Leverage data connections already in Qlik Sense Enterprise
 #### Design Applications
 • Based on the business requirements and desired insight, determine the optimal
 number of charts, correct chart type, order of dimensions, use of color, and measures
@@ -75,3 +75,5 @@ image, appropriate title, etc.)
 • Use Insight Advisor to generate visualizations
 • Use chart suggestions to change visualization type
 • Select appropriate screen layout
+
+## Notes
