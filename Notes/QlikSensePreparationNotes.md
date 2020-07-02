@@ -19,9 +19,10 @@
 
 ### Business Analyst
 
-1. Getting Started
-    - Getting started review video has good overview material.
-2. Load Data
+1. Getting Started with Qliksense -> Review of lessons learned
+    - Has good overview material.
+2. Foundations of Building Visualiztions -> Which Charts to use
+    - Chart selection help
 
 
 ### Data Architect
