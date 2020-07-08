@@ -23,7 +23,8 @@
     - Has good overview material.
 2. Foundations of Building Visualiztions -> Which Charts to use
     - Chart selection help
-
+1. Design of Experiments, Hypothesis testing, A/B Testing - Pluralsight
+1. Advanced Analytics Integration - R and Python integration
 
 ### Data Architect
 
