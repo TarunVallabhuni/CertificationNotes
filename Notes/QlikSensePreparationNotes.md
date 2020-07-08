@@ -25,6 +25,8 @@
     - Chart selection help
 1. Design of Experiments, Hypothesis testing, A/B Testing - Pluralsight
 1. Advanced Analytics Integration - R and Python integration
+1. Data Literacy - Decision Making Techniques / Frameworks 
+
 
 ### Data Architect
 
