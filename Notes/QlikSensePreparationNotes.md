@@ -2,7 +2,6 @@
 - No Hands-on problems, 50 (sometimes long) Multiple Choice questions in 2 Hours.
 - The choices are very similar to each other. Option to flag a question and review it at the end is handy.
 - Proctor is relatively strict, must not deviate eyes from the screen.
-
 - Set Expressions 
 
 ## Steps:
@@ -29,7 +28,7 @@
 1. Design of Experiments, Hypothesis testing, A/B Testing - Pluralsight
 1. Advanced Analytics Integration - R and Python integration
 1. Data Literacy - Decision Making Techniques / Frameworks 
-
+1. Bar Charts - Modifiers / set expressions / trend lines
 
 ### Data Architect
 
