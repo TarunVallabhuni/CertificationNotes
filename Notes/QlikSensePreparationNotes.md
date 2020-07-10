@@ -3,7 +3,9 @@
 - The choices are very similar to each other. Option to flag a question and review it at the end is handy.
 - Proctor is relatively strict, must not deviate eyes from the screen.
 
-## Resources:
+- Set Expressions 
+
+## Steps:
 
 1. Link to the Study guide. [Exam Guide](<https://www.qlik.com/us/-/media/files/training/global-us/qlik-sense-certification-exam-study-guide-en.pdf?la=en>)
 2. Qlik Continuous Classroom material. [Link](<https://learning.qlik.com/mod/page/view.php?id=24702#home>)
@@ -14,6 +16,7 @@
 
 1. Go through Qlik Continuous Classroom material.
 2. Test yourself on Qualification exam to get a feel of the questions. (https://www.qlik.com/us/services/training/certifications-and-qualifications)
+
 
 ## Continuous Classroom Notes
 
