@@ -24,5 +24,5 @@
 The certification takes 60 minutes and consists of 80 questions. You will not have a lot of time to think things through. Be prepared for this so you do not feel pressured. I would categorise the exam as easy in terms of difficulty. If you followed all the steps above you should not worry. A lot of the questions you will immediately know the answer to without really having to think a lot. Some of the questions will be a bit tougher and just take the time to think them through. You can always mark the difficult questions and revisit them later.
 
 ### Notes
-The PO role is to focus on the Value that the engine of the Development team delivers. To be really effective this needs to consider the Return on Investment (RoI) and the Total Cost of Ownership (TCO). This means that the PO will care deeply about having a well refined ordered backlog and clear understanding of and commitment to Done. This will then enable them to get product to customer with few or no impediments.
-http://youtu.be/502ILHjX9EE 
+The PO role is to focus on the Value that the engine of the Development team delivers. To be really effective this needs to consider the Return on Investment (RoI) and the Total Cost of Ownership (TCO). This means that the PO will care deeply about having a well refined ordered backlog and clear understanding of and commitment to Done. This will then enable them to get product to customer with few or no impediments.  
+Video explaining basic roles: http://youtu.be/502ILHjX9EE 
