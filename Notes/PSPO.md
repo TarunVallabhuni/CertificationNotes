@@ -19,5 +19,10 @@
   - How should the backlog be prioritised?
   - Who is responsible for estimating the backlog?
 - Read articles on the Product Owner role. There are more than enough on Medium. This helps understanding different perspectives and getting more in depth about what the role really entails. You will also be able to spot the mistakes people make in their articles. Scrum is easy to learn, but hard to master.
+
 ### Doing the PSPO I certification
 The certification takes 60 minutes and consists of 80 questions. You will not have a lot of time to think things through. Be prepared for this so you do not feel pressured. I would categorise the exam as easy in terms of difficulty. If you followed all the steps above you should not worry. A lot of the questions you will immediately know the answer to without really having to think a lot. Some of the questions will be a bit tougher and just take the time to think them through. You can always mark the difficult questions and revisit them later.
+
+### Notes
+The PO role is to focus on the Value that the engine of the Development team delivers. To be really effective this needs to consider the Return on Investment (RoI) and the Total Cost of Ownership (TCO). This means that the PO will care deeply about having a well refined ordered backlog and clear understanding of and commitment to Done. This will then enable them to get product to customer with few or no impediments.
+http://youtu.be/502ILHjX9EE 
