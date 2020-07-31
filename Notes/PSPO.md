@@ -4,6 +4,11 @@
 - Read the official Scrum Guide. Read it again. Keep on reading till you get bored. It is only ~ 20 pages!
 - Make a Mind Map. Formalise what you have read in a mental model. This will aid remembering and reinforce learning.
 - Do all the open assessments available on Scrum.org for each role: Development Team, Scrum Master and Product Owner. Keep doing this until you consistently score 100 procent. If you fail a question, read the relevant parts in the Scrum guide. Doing all available open assessments helps to understand where each role starts and ends.
+- Read the EBM Guide   focusing in on the EBM Key Value Measures that can help a Product Owner assess and understand value.
+- Repeat the assessments, except taking the [Agile Measurement Open] (<https://www.scrum.org/open-assessments/agile-measurement-open>) multiple times, until you can consistently get 100%.
+- Read about Burndown Charts [here](<https://webgate.ltd.uk/burndown-chart/>) and [here](<https://en.wikipedia.org/wiki/Burn_down_chart>).
+- Read the [Scrum Glossary] (<https://www.scrum.org/Resources/Scrum-Glossary>), and refer back to it when necessary.
+- Read this article a couple of times: [The New New Product Owner] (<https://scrumcrazy.wordpress.com/2018/09/22/the-new-new-product-owner/>)
 - The devil is in the details. Make sure you are able to answer the following questions by heart:
   - When does a sprint start? When does it finish?
   - When is it okay to cancel a sprint?
