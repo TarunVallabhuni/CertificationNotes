@@ -25,4 +25,4 @@ The certification takes 60 minutes and consists of 80 questions. You will not ha
 
 ### Notes
 The PO role is to focus on the Value that the engine of the Development team delivers. To be really effective this needs to consider the Return on Investment (RoI) and the Total Cost of Ownership (TCO). This means that the PO will care deeply about having a well refined ordered backlog and clear understanding of and commitment to Done. This will then enable them to get product to customer with few or no impediments.  
-Video explaining basic roles: http://youtu.be/502ILHjX9EE 
+1 Day Product Ownership course compressed to 15 min : http://youtu.be/502ILHjX9EE 
